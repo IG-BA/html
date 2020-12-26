@@ -1,0 +1,14 @@
+.zag{
+    font-size: 93px;
+    font-style: italic;
+    color: #eb1010;
+    letter-spacing:  20px;
+    float: right;
+}
+.logo{
+    float: right;
+    width: 300px ;
+}
+body{
+    background-image: url(images/background.png);
+}

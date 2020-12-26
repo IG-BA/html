@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form action="action_page.html">
+        <div class="q1">
+            <label for="pip">ПІП</label>
+            <input type="text" placeholder="Прізвище Ім'я По-батькові">
+        </div>
+
+        <div class="q2">
+            <label for="prl">Пароль</label>
+            <input type="text" placeholder="Вигадайте пароль">
+        </div>
+
+        <div class="q3">
+            <label for="prv">Провайдер</label>
+            <input type="text" placeholder="Internet" disabled="disabled">
+        </div>
+
+        <div class="q4">
+            <label for="trf">Тарифи</label>
+            <select name="" id="">
+                <option value="#">4 Мбіт/с</option>
+
+                <option value="#">8 Мбіт/с</option>
+
+                <option value="#">12 Мбіт/с</option>
+
+            </select>
+        </div>
+        <div class="q5" >
+            <label for="">Додаткові послуги</label>
+            <ul>
+                <li>
+                    <label for=""> <input type="checkbox">Реальний статичний IP</label>
+                </li>
+
+                <li>
+                    <label for=""> <input type="checkbox">Відкладений платіж</label>
+                </li>
+
+                <li>
+                    <label for=""> <input type="checkbox" disabled="disabled">Переоформлення договору</label>
+                </li>
+            </ul>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="q6">
+            <label for="">Перемикачі</label>
+            <ul>
+                <li>
+					 <label><input type="radio" name="radio1"> Кабельне</label>
+                </li>
+                <li>
+                    <label> <input type="radio" name="radio1"> Оптоволоконне (договірне)</label>
+                </li>
+                <li>
+                     <label><input type="radio" name="radio1"> Бездротове</label>
+                </li>
+            </ul>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div>
+            <label for="">Завантажити заяву</label>
+            <input type="file">
+        </div>
+        <div>
+            <label for="">Додатково</label>
+            <textarea name="" id="" cols="10" rows="8"></textarea>
+        </div>
+
+
+        <div>
+            <Button>Надіслати</Button>
+            <Button type="reset">Очистити</Button>
+        </div>
+
+
+    </form>
+</body>
+
+</html>

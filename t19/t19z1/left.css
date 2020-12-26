@@ -1,0 +1,31 @@
+body{
+    background-image: url(background_left.jpeg);
+}
+.menu1, .menu2, .menu3, .menu4, .menu5{
+    background-color: #30A8E6;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    width: 220px;
+    height: 25px;
+    padding-top: 3px;
+    margin-left: 30px ;
+    box-shadow: 3px 7px 7px;
+}
+a{
+    font-family: Arial;
+    text-decoration: none;
+    color: beige;
+    
+}
+b{
+    font-size: x-large;
+}
+.menu1:hover, .menu2:hover, .menu3:hover, .menu4:hover, .menu5:hover{
+    background-color: #1C85BB;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    width: 225px;
+    height: 26px;
+    padding-top: 3px;
+    margin-left: 30px ;
+}

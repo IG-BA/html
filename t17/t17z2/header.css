@@ -1,0 +1,12 @@
+.menu1, .menu2, .menu3, .menu4, .menu5, .menu6, .menu7, .menu8, .menu9, .menu0{
+float: left;
+background-color:  #ffff99;
+width:10%;
+text-align:center;
+}
+img{
+    width: 100%;
+}
+body{
+    background-color: black;
+}

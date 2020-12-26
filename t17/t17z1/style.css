@@ -1,0 +1,29 @@
+body {
+	background: url(background.jpg);
+}
+h1 {
+	font-size: 40;
+	text-align: center;
+	color: red;
+	font-style: italic;
+	text-decoration: underline;
+	letter-spacing: 10;
+}
+#img_main {
+	width: 30%;
+	float: left;
+}
+#wellcome_text {
+	text-align: center;
+	font-size: 30;
+	color: navy;
+	font-style: italic;
+}
+#about {
+	width: 45%;
+	border-width:1;
+    border-color: black;
+    border-style: solid;
+	float: left;
+	margin-top: 10;
+}
