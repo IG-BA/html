@@ -1,0 +1,38 @@
+.menu1, .menu2, .menu3, .menu4, .menu5, .menu6, .menu7, .menu8, .menu9, .menu0{
+float: left;
+background-color:  #4477a1;
+width:9.3%;
+text-align:center;
+border-radius: 6px;
+height: 35px;
+margin-left: 10px;
+padding-top: 10px;
+margin-top: 10px;
+box-shadow: 5px 7px 7px; 
+
+}
+img{
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+.menu{
+    background-color:  #ffff99; 
+   
+}
+a{
+    font-family: Arial;
+    color: white;
+    text-decoration: none;
+}
+.menu1:hover, .menu2:hover, .menu3:hover, .menu4:hover, .menu5:hover, .menu6:hover, .menu7:hover, .menu8:hover, .menu9:hover, .menu0:hover{
+    float: left;
+    background-color:  #81a8cb;
+    width:9.6%;
+    text-align:center;
+    border-radius: 8px;
+    height: 36px;
+    margin-left: 10px;
+    padding-top: 11px;
+    margin-top: 10px;

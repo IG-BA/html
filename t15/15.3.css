@@ -1,0 +1,36 @@
+#txt{
+    z-index: 5 ;
+    position: absolute;
+    
+}
+
+
+
+#hl{
+    z-index: 3 ;
+    position: absolute;
+    
+}
+
+
+#key{
+    z-index: 4 ;
+    position: absolute;
+}
+
+
+
+#anm {
+    z-index: 2 ;
+    position: absolute;
+
+}
+
+
+
+#wtr{
+    z-index: 1 ;
+    position: absolute;
+    left: 300px;
+    top: 330px;
+}

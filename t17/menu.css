@@ -1,0 +1,37 @@
+.menu1, .menu2, .menu3, .menu4, .menu5, .menu6
+{
+    float: left;
+    margin-left: 2px;
+    background-color:  #ffff99;
+    text-align: center;
+    font-size: 18px;
+}
+body{
+    background-color: #6699CC;
+}
+.menu1{
+    width: 18.5%;
+}
+.menu2{
+    width: 13%;
+}
+.menu3{
+    width: 16.7%;
+}
+.menu4{
+    width: 16.7%;
+}
+.menu5{
+    width: 16.7%;
+}
+.menu6{
+    width:16.7%;
+}
+.menu1:hover, .menu2:hover, .menu3:hover, .menu4:hover, .menu5:hover, .menu6:hover{
+    float: left;
+    margin-left: 2px;
+    background-color:  #cccc29;
+    text-align: center;
+    font-size: 18px;
+    c    font-style: initialolor: rgb(62, 0, 161);
+}
