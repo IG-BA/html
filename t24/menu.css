@@ -12,19 +12,8 @@ header{
     
 }
 ul{
-    list-style-type: none;
-
- 
-    
+    list-style-type: none;   
 }
-
-img{
-    float: left;
-    width: 200px;
-    border-radius: 5px;
-    margin-left: 15px;
-}
-
 
 h1{
     
@@ -37,8 +26,8 @@ h1{
 }
 .main-wrap{
     background: url(image/bg03.png);    
-    background-size: 95%;
-    hei
+    background-size: 600%;
+    
    
 }
 
@@ -63,16 +52,6 @@ main{
     max-width: 70%;
     margin: 0 auto;
 }
-p{
-    font-size: 10px;
-    color: rgb(84, 167, 170);
-    margin: 0 auto;
-}
-li{
-    margin-left: 10px;
-    
-    
-}
 
 .menu12{
     float: left;
@@ -85,19 +64,19 @@ li{
 .down{
     margin: 0 auto;
 }
-    
-.cleaner{
-    margin-bottom: 30px;
-}
-.menu{
-   float: right;
-   margin-right: 20px;
-}
-.imgs{
-    margin-left: 10%;
-}
 .footer-wrap{
     background: url(image/header.jpg);
     height: 155px;
 }
-
+img{
+    width: 300px;
+}
+.menu{
+    float: right;
+    margin-right: 20px;
+ }
+ li{
+    margin-left: 10px;
+    
+    
+}
