@@ -16,7 +16,7 @@ ul{
 }
 
 h1{
-    
+    font-size: 50px;
     text-align: center;
 }
 .menu1{
@@ -65,8 +65,10 @@ main{
     margin: 0 auto;
 }
 .footer-wrap{
-    background: url(image/header.jpg);
-    height: 155px;
+    background-color: rgba(0, 0, 0, 0.87);
+    background-image: url(image/bg01.png);
+    height: 250px;
+    background-size: 30%;
 }
 img{
     width: 300px;
@@ -79,4 +81,9 @@ img{
     margin-left: 10px;
     
     
+}
+p{
+    font-size: 23px;
+    color: rgb(84, 167, 170);
+    margin: 0 auto;
 }
