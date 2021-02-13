@@ -1,0 +1,45 @@
+.header-wrap{
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: rgba(203, 33, 33, 0.74);
+}
+
+.zg{
+    
+    width: 1280px;
+    height: 70px;
+    left: 321px;
+    top: calc(50% - 70px/2 - 1px);
+
+    background: rgba(252, 94, 5, 0.26);
+}
+article{
+    background: #F64383;
+    border-radius: 15px;
+    width: 299px;
+    height: 350px;
+    
+}
+.article1{
+    
+    left: 333px;
+    top: 284px;
+    
+
+}
+.article2{
+    left: 811px;
+    top: 284px;
+}
+img{
+    
+    width: 299px;
+    height: 270px;
+    left: 0px;
+    top: 0px;
+    border: 10px solid #F74383;
+    box-sizing: border-box;
+    border-radius: 15px;}
