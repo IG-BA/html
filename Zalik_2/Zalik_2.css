@@ -102,4 +102,5 @@ header{
 h3{
     width: 270px;
     text-decoration: none;
+    list-style-type: none;
 }
