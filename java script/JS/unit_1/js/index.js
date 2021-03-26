@@ -88,13 +88,23 @@ $(function () {
     // function slide(name_obj, time1, time2){
     //     obj = $(name_obj);
     //     obj.slideUp(time1);
-    //     obj.slideDown(time2);
+    // obj.slideDown(time2);
         
 
     // }
 
+    //  $('.moto1').slideUp(2000);
+    //  $('.moto1').slideDown(1000);
 
 
+    // $(".head-moto-img").fadeTo(0000, 0.05);
+    // $(".head-moto-img").fadeTo(7000, 1);
+
+    //  $(".top-nav").hide(3000, function(){
+    //      alert('Меню було сховано використовуючи callback функцію')
+    // });
+    
+    
 })
 
 
